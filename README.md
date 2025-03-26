@@ -1,5 +1,7 @@
 # Does simulating Newtonian Physics mean we fully understand it?
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 > *"We live in a Newtonian world of Einsteinian physics ruled by Frankenstein logic." – Michio Kaku*
 
 '**Newtonian Physics**' (also known as Newtonian/Classical Mechanics) is a branch of physics which analyses the physical movement of objects through forces and motion. Since the development of 'classical science', Newtonian Physics has played a crucial part behind our past all the way up to our current understanding of how the universe works; without understanding it, we wouldn't have been able to be as advance to the stage we currently are at. 
