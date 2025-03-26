@@ -1,6 +1,6 @@
 # Does simulating Newtonian Physics mean we fully understand it?
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://i.pinimg.com/originals/d0/be/84/d0be84397f42d52652c823d0d0031ab8.gif "A demonstration of 'Newton's Cradle'")
 
 > *"We live in a Newtonian world of Einsteinian physics ruled by Frankenstein logic." – Michio Kaku*
 
