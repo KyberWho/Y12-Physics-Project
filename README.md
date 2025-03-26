@@ -1,5 +1,4 @@
 # Does simulating Newtonian Physics mean we fully understand it?
-___
 
 > *"We live in a Newtonian world of Einsteinian physics ruled by Frankenstein logic." – Michio Kaku*
 
@@ -11,7 +10,7 @@ ___
 - **What** advantages has simulating Newtonian Mechanics brought society?
 - **Could** we ever reach the point of '*mastering motion*'?
 
-___
+## Information + Usage Instructions
 
 This repository contains these files (\* = could be added/removed in the future):
 1. Research Report: Contains draft information + research on topics discussed (inc. citations)
