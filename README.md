@@ -16,7 +16,7 @@
 ## Information + Usage Instructions
 
 This repository contains these files (\* = could be added/removed in the future):
-1. [Research Report](../KyberWho/Y12-Physics-Project/research-report/build): Contains draft information + research on topics discussed (inc. citations)
+1. [Research Report](../Y12-Physics-Project/research-report/build): Contains draft information + research on topics discussed (inc. citations)
 2. Conference Poster: A scientific poster which contains a summary + important diagrams on each topic 
 3. Scientific Report: A 5 page A4 document detailing the findings found in both the research report and conference poster
 4. Presentation: a short PowerPoint presentation which will be presented to the class outlining the findings in the scientific report
