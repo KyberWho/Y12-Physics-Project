@@ -1,0 +1,3 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QBlaire Villareal April 2025\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q[2.]aa\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q\"Jon Humberston\"\\E$"}

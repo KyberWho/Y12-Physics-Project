@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/tex
 # Edit at https://www.toptal.com/developers/gitignore?templates=tex
 
+### VS Code folder ###
+.vscode/*
+
 ### TeX ###
 ## Core latex/pdflatex auxiliary files:
 *.aux
