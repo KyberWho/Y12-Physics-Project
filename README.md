@@ -7,7 +7,7 @@
 '**Newtonian Physics**' (also known as Newtonian/Classical Mechanics) is a branch of physics which analyses the physical movement of objects through forces and motion. Since the development of 'classical science', Newtonian Physics has played a crucial part behind our past all the way up to our current understanding of how the universe works; without understanding it, we wouldn't have been able to be as advance to the stage we currently are at. 
 
 **Since the 20th Century**, we have been developing ways to model the areas of Newtonian Physics not so easily available to us, and the idea behind this '**big question**' is to understand how coding physical simulations has benefited society, as well as explore the possibility that technology could bring us to *mastery* over classical mechanics. In my report, I aim to cover:
-- **What** is Newtonian Mechanics?
+- **What** are Newtonian Mechanics?
 - **How** has Newtonian Mechanics been used in simulations?
 - **What** advantages has simulating Newtonian Mechanics brought society?
 - **Could** we ever reach the point of '*mastering motion*'?
