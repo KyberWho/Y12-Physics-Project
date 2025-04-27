@@ -19,5 +19,5 @@ This repository contains these files (\* = could be added/removed in the future)
 1. [Research Report](https://github.com/KyberWho/Y12-Physics-Project/blob/e7a0fcc779379efe791a2ee6d2870eba9afb5f8b/research-report/build/main.pdf): Contains draft information + research on topics discussed (inc. citations)
 2. Conference Poster: A scientific poster which contains a summary + important diagrams on each topic 
 3. Scientific Report: A 5 page A4 document detailing the findings found in both the research report and conference poster
-4. Presentation: a short PowerPoint presentation which will be presented to the class outlining the findings in the scientific report
+4. Presentation: a short (est. 5 min) PowerPoint presentation which will be presented to the class outlining the findings in the scientific report
 5. Physics Demo\*: An interactive executable file coded by me to help demonstrate the different aspects of Newtonian Physics
