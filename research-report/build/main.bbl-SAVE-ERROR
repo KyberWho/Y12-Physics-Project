@@ -1,0 +1,413 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{physics_learning}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=80e3fe603b20c7d88231ec0f16ac97a3}{%
+           family={Amadeu},
+           familyi={A\bibinitperiod},
+           given={Rute},
+           giveni={R\bibinitperiod}}}%
+        {{hash=29c7094ac2aca11cb106f226866b3fb3}{%
+           family={Leal},
+           familyi={L\bibinitperiod},
+           given={João\bibnamedelima Paulo},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{c2e66adce74997ff05f3822be3bd87b0}
+      \strng{fullhash}{c2e66adce74997ff05f3822be3bd87b0}
+      \strng{fullhashraw}{c2e66adce74997ff05f3822be3bd87b0}
+      \strng{bibnamehash}{c2e66adce74997ff05f3822be3bd87b0}
+      \strng{authorbibnamehash}{c2e66adce74997ff05f3822be3bd87b0}
+      \strng{authornamehash}{c2e66adce74997ff05f3822be3bd87b0}
+      \strng{authorfullhash}{c2e66adce74997ff05f3822be3bd87b0}
+      \strng{authorfullhashraw}{c2e66adce74997ff05f3822be3bd87b0}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{accessed: 29/4/25}
+      \field{journaltitle}{Ensenanza de las Ciencias}
+      \field{number}{3}
+      \field{title}{Advantages of using computer simulations in physics learning}
+      \field{volume}{31}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://ensciencias.uab.cat/article/view/v31-n3-amadeu-leal
+      \endverb
+      \verb{url}
+      \verb https://ensciencias.uab.cat/article/view/v31-n3-amadeu-leal
+      \endverb
+    \endentry
+    \entry{game_physics}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=4c1c7c654d84edeaab42355e9d351534}{%
+           family={Bourg},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima M},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=d0a60d3f51e1ee05fad3cd091293f2c8}{%
+           family={Bywalec},
+           familyi={B\bibinitperiod},
+           given={Bryan},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {O'Reilly Media, Inc.}%
+      }
+      \strng{namehash}{253f92463823ef63f76e3569dfee33d4}
+      \strng{fullhash}{253f92463823ef63f76e3569dfee33d4}
+      \strng{fullhashraw}{253f92463823ef63f76e3569dfee33d4}
+      \strng{bibnamehash}{253f92463823ef63f76e3569dfee33d4}
+      \strng{authorbibnamehash}{253f92463823ef63f76e3569dfee33d4}
+      \strng{authornamehash}{253f92463823ef63f76e3569dfee33d4}
+      \strng{authorfullhash}{253f92463823ef63f76e3569dfee33d4}
+      \strng{authorfullhashraw}{253f92463823ef63f76e3569dfee33d4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{accessed: 29/4/25}
+      \field{isbn}{1449361048}
+      \field{title}{Physics for Game Developers: Science, math, and code for realistic effects}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://books.google.co.uk/books?id=Kd5QonEHoCwC&dq=game+physics&lr=&source=gbs_navlinks_s
+      \endverb
+      \verb{url}
+      \verb https://books.google.co.uk/books?id=Kd5QonEHoCwC&dq=game+physics&lr=&source=gbs_navlinks_s
+      \endverb
+    \endentry
+    \entry{fifa_air_resistance}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=274966ea731e21a3781f5f7b050c0314}{%
+           family={Chiaet},
+           familyi={C\bibinitperiod},
+           given={Julianne},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{274966ea731e21a3781f5f7b050c0314}
+      \strng{fullhash}{274966ea731e21a3781f5f7b050c0314}
+      \strng{fullhashraw}{274966ea731e21a3781f5f7b050c0314}
+      \strng{bibnamehash}{274966ea731e21a3781f5f7b050c0314}
+      \strng{authorbibnamehash}{274966ea731e21a3781f5f7b050c0314}
+      \strng{authornamehash}{274966ea731e21a3781f5f7b050c0314}
+      \strng{authorfullhash}{274966ea731e21a3781f5f7b050c0314}
+      \strng{authorfullhashraw}{274966ea731e21a3781f5f7b050c0314}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{accessed: 27/3/25}
+      \field{journaltitle}{Scientific American}
+      \field{number}{6}
+      \field{title}{FIFA Physics}
+      \field{volume}{309}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/26018217?seq=1
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/26018217?seq=1
+      \endverb
+    \endentry
+    \entry{classical_mechanics_intro}{article}{}{}
+      \name{commentator}{1}{}{%
+        {{hash=ceb14f93f6443f3ef2434b5e98eb1850}{%
+           family={Humberston},
+           familyi={H\bibinitperiod},
+           given={Jon},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {UCL (University College London)}%
+      }
+      \strng{commentatorbibnamehash}{ceb14f93f6443f3ef2434b5e98eb1850}
+      \strng{commentatornamehash}{ceb14f93f6443f3ef2434b5e98eb1850}
+      \strng{commentatorfullhash}{ceb14f93f6443f3ef2434b5e98eb1850}
+      \strng{commentatorfullhashraw}{ceb14f93f6443f3ef2434b5e98eb1850}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{title}
+      \field{addendum}{accessed: 27/3/25}
+      \field{title}{Classical Mechanics}
+      \field{year}{2009}
+      \verb{urlraw}
+      \verb https://www.ucl.ac.uk/~zcapd49/phas1247coursenotes.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.ucl.ac.uk/~zcapd49/phas1247coursenotes.pdf
+      \endverb
+    \endentry
+    \entry{fluid_dynamic_workings}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=bd0b71d5e7114e5993fd26f23fb2289f}{%
+           family={Eckert},
+           familyi={E\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=906a2d2403fbc223e48d9abb737c7ed7}{%
+           family={VCH},
+           familyi={V\bibinitperiod},
+           given={Wiley},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley VCH}%
+      }
+      \strng{namehash}{bd0b71d5e7114e5993fd26f23fb2289f}
+      \strng{fullhash}{bd0b71d5e7114e5993fd26f23fb2289f}
+      \strng{fullhashraw}{bd0b71d5e7114e5993fd26f23fb2289f}
+      \strng{bibnamehash}{bd0b71d5e7114e5993fd26f23fb2289f}
+      \strng{authorbibnamehash}{bd0b71d5e7114e5993fd26f23fb2289f}
+      \strng{authornamehash}{bd0b71d5e7114e5993fd26f23fb2289f}
+      \strng{authorfullhash}{bd0b71d5e7114e5993fd26f23fb2289f}
+      \strng{authorfullhashraw}{bd0b71d5e7114e5993fd26f23fb2289f}
+      \strng{editorbibnamehash}{906a2d2403fbc223e48d9abb737c7ed7}
+      \strng{editornamehash}{906a2d2403fbc223e48d9abb737c7ed7}
+      \strng{editorfullhash}{906a2d2403fbc223e48d9abb737c7ed7}
+      \strng{editorfullhashraw}{906a2d2403fbc223e48d9abb737c7ed7}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{accessed: 27/3/25}
+      \field{isbn}{3-527-40513-5}
+      \field{title}{The Dawn of Fluid Dynamics: A Discipline Between Science and Technology}
+      \field{year}{2006}
+      \verb{urlraw}
+      \verb https://shorturl.at/cb4xQ
+      \endverb
+      \verb{url}
+      \verb https://shorturl.at/cb4xQ
+      \endverb
+    \endentry
+    \entry{static_dynamic}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=add4c3e1dbea31342b4c7b9da620b9d1}{%
+           family={Greenwood},
+           familyi={G\bibinitperiod},
+           given={Donald\bibnamedelima T.},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Dover Publications Inc}%
+      }
+      \strng{namehash}{add4c3e1dbea31342b4c7b9da620b9d1}
+      \strng{fullhash}{add4c3e1dbea31342b4c7b9da620b9d1}
+      \strng{fullhashraw}{add4c3e1dbea31342b4c7b9da620b9d1}
+      \strng{bibnamehash}{add4c3e1dbea31342b4c7b9da620b9d1}
+      \strng{authorbibnamehash}{add4c3e1dbea31342b4c7b9da620b9d1}
+      \strng{authornamehash}{add4c3e1dbea31342b4c7b9da620b9d1}
+      \strng{authorfullhash}{add4c3e1dbea31342b4c7b9da620b9d1}
+      \strng{authorfullhashraw}{add4c3e1dbea31342b4c7b9da620b9d1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{accessed: 25/3/25}
+      \field{isbn}{978-0486696904}
+      \field{title}{Classical Dynamics}
+      \field{year}{1997}
+    \endentry
+    \entry{newtonian_synthesis}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=77d1cc4880e73cf29308e34048451556}{%
+           family={Koyré},
+           familyi={K\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{77d1cc4880e73cf29308e34048451556}
+      \strng{fullhash}{77d1cc4880e73cf29308e34048451556}
+      \strng{fullhashraw}{77d1cc4880e73cf29308e34048451556}
+      \strng{bibnamehash}{77d1cc4880e73cf29308e34048451556}
+      \strng{authorbibnamehash}{77d1cc4880e73cf29308e34048451556}
+      \strng{authornamehash}{77d1cc4880e73cf29308e34048451556}
+      \strng{authorfullhash}{77d1cc4880e73cf29308e34048451556}
+      \strng{authorfullhashraw}{77d1cc4880e73cf29308e34048451556}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{accessed: 29/4/25}
+      \field{journaltitle}{The Journal of General Education}
+      \field{number}{4}
+      \field{title}{The Significance of the Newtonian Synthesis}
+      \field{volume}{4}
+      \field{year}{1950}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/27795317
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/27795317
+      \endverb
+    \endentry
+    \entry{robot_kinematics}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=a69ce5a1d28fbaa52c7ac9326851ced3}{%
+           family={Kucuk},
+           familyi={K\bibinitperiod},
+           given={Serdar},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f38b77c0f8ab727f017b59700ca716df}{%
+           family={Bingul},
+           familyi={B\bibinitperiod},
+           given={Zafer},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {INTECH Open Access}%
+      }
+      \strng{namehash}{b9d7cc4cfa8cf13322bfd4c2182be02f}
+      \strng{fullhash}{b9d7cc4cfa8cf13322bfd4c2182be02f}
+      \strng{fullhashraw}{b9d7cc4cfa8cf13322bfd4c2182be02f}
+      \strng{bibnamehash}{b9d7cc4cfa8cf13322bfd4c2182be02f}
+      \strng{authorbibnamehash}{b9d7cc4cfa8cf13322bfd4c2182be02f}
+      \strng{authornamehash}{b9d7cc4cfa8cf13322bfd4c2182be02f}
+      \strng{authorfullhash}{b9d7cc4cfa8cf13322bfd4c2182be02f}
+      \strng{authorfullhashraw}{b9d7cc4cfa8cf13322bfd4c2182be02f}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{accessed: 29/4/25}
+      \field{isbn}{3-86611-285-8}
+      \field{title}{Robot kinematics: Forward and inverse kinematics.}
+      \field{year}{2006}
+    \endentry
+    \entry{neumann_compendium}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=f8744afb2b8eb53c5804cbac615dbad1}{%
+           family={Neumann},
+           familyi={N\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           prefix={von},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=68b0111b2708e3db69d654ccc2fde190}{%
+           family={F.\bibnamedelimi Brody},
+           familyi={F\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={T.\bibnamedelimi Vamos},
+           giveni={T\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Unity Of Knowledge}%
+      }
+      \strng{namehash}{f8744afb2b8eb53c5804cbac615dbad1}
+      \strng{fullhash}{f8744afb2b8eb53c5804cbac615dbad1}
+      \strng{fullhashraw}{f8744afb2b8eb53c5804cbac615dbad1}
+      \strng{bibnamehash}{f8744afb2b8eb53c5804cbac615dbad1}
+      \strng{authorbibnamehash}{f8744afb2b8eb53c5804cbac615dbad1}
+      \strng{authornamehash}{f8744afb2b8eb53c5804cbac615dbad1}
+      \strng{authorfullhash}{f8744afb2b8eb53c5804cbac615dbad1}
+      \strng{authorfullhashraw}{f8744afb2b8eb53c5804cbac615dbad1}
+      \strng{editorbibnamehash}{68b0111b2708e3db69d654ccc2fde190}
+      \strng{editornamehash}{68b0111b2708e3db69d654ccc2fde190}
+      \strng{editorfullhash}{68b0111b2708e3db69d654ccc2fde190}
+      \strng{editorfullhashraw}{68b0111b2708e3db69d654ccc2fde190}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{accessed: 27/3/25}
+      \field{subtitle}{Method in the Physical Sciences}
+      \field{title}{The Neumann compendium}
+      \field{year}{1955}
+    \endentry
+    \entry{beamng_softbody_physics}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=94ae77002c76e25c7e442274c48924b8}{%
+           family={Reilly},
+           familyi={R\bibinitperiod},
+           given={Luke},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {IGN}%
+      }
+      \strng{namehash}{94ae77002c76e25c7e442274c48924b8}
+      \strng{fullhash}{94ae77002c76e25c7e442274c48924b8}
+      \strng{fullhashraw}{94ae77002c76e25c7e442274c48924b8}
+      \strng{bibnamehash}{94ae77002c76e25c7e442274c48924b8}
+      \strng{authorbibnamehash}{94ae77002c76e25c7e442274c48924b8}
+      \strng{authornamehash}{94ae77002c76e25c7e442274c48924b8}
+      \strng{authorfullhash}{94ae77002c76e25c7e442274c48924b8}
+      \strng{authorfullhashraw}{94ae77002c76e25c7e442274c48924b8}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{accessed: 27/3/25}
+      \field{title}{The Most Impressive Physics Engine You've Never Seen}
+      \field{type}{techreport}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://www.ign.com/articles/2012/10/01/the-most-impressive-physics-engine-youve-never-seen
+      \endverb
+      \verb{url}
+      \verb https://www.ign.com/articles/2012/10/01/the-most-impressive-physics-engine-youve-never-seen
+      \endverb
+    \endentry
+    \entry{kinematics}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=b30d3f3e70967c999da48380d5e9015a}{%
+           family={Saatsi},
+           familyi={S\bibinitperiod},
+           given={Juha},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b30d3f3e70967c999da48380d5e9015a}
+      \strng{fullhash}{b30d3f3e70967c999da48380d5e9015a}
+      \strng{fullhashraw}{b30d3f3e70967c999da48380d5e9015a}
+      \strng{bibnamehash}{b30d3f3e70967c999da48380d5e9015a}
+      \strng{authorbibnamehash}{b30d3f3e70967c999da48380d5e9015a}
+      \strng{authornamehash}{b30d3f3e70967c999da48380d5e9015a}
+      \strng{authorfullhash}{b30d3f3e70967c999da48380d5e9015a}
+      \strng{authorfullhashraw}{b30d3f3e70967c999da48380d5e9015a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{accessed: 25/3/25}
+      \field{journaltitle}{The British Journal for the Philosophy of Science}
+      \field{number}{1}
+      \field{title}{On Explanations from Geometry of Motion}
+      \field{volume}{69}
+      \field{year}{2015}
+      \verb{doi}
+      \verb https://dx.doi.org/10.1093/bjps/axw007
+      \endverb
+      \verb{urlraw}
+      \verb https://eprints.whiterose.ac.uk/id/eprint/91260/1/Geometry%20of%20motion%20BJPS%20final.pdf
+      \endverb
+      \verb{url}
+      \verb https://eprints.whiterose.ac.uk/id/eprint/91260/1/Geometry%20of%20motion%20BJPS%20final.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
