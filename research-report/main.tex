@@ -1,4 +1,4 @@
-\documentclass[12pt]{article}
+\documentclass[11pt]{article}
 
 % PRE-AMBLE --------------------------------------------------------------------------------------------------------------------------------
 
@@ -9,11 +9,13 @@
 
 \usepackage{dirtytalk} % used for quotations
 \usepackage{graphicx}
+\usepackage{makecell}
+\usepackage{multirow}
 \usepackage{parskip}
 
-\title{Research for \say{Does simulating Newtonian Physics mean we finally understand it?}}
+\title{Research for \say{Does the ability to simulate Newtonian Physics indicate we finally understand it?}}
 \author{Blaire Villareal}
-\date{April 2025}
+\date{May 2025}
 
 \addbibresource{refs.bib}
 
@@ -29,20 +31,21 @@
 
 \section*{Introduction}
 
-This paper serves as the research for my report on "Does simulating Newtonian Physics mean we finally understand it?",
+This paper serves as the research for my report on \say{Does the ability to simulate Newtonian Physics indicate we finally understand it?},
 containing: 
 
 \begin{enumerate}
     \item An overview on the workings of Newtonian Physics;
-    \item Use-cases of Newtonian Physics;
+    \item Use-cases of Newtonian Physics in Simulations;
     \item The advantages/benefits of simulating Newtonian Physics;
-    \item A discussion on whether we could \say{\textit{master}} Newtonian Physics towards the future.
+    \item A discussion on whether we would be able to \say{\textit{master}} Newtonian Physics towards the future.
 \end{enumerate}
 
 \par 
 
 In each section, it will contain both a reference to a relevant source and
-a brief summary about why said reference would be useful in answering that sub-topic.
+a brief summary about why said reference would be useful in answering that sub-topic. Within these references will
+include important pictures, figures and diagrams that will be crucial in illustrating specific key-points. 
 
 \newpage
 
@@ -71,7 +74,7 @@ the applications and the purpose of the \say{geometry of motion} within a wider 
 [3.] \parencite{static_dynamic} \par This book goes deeper inside the \say{static} and \say{dynamic} fields of study,
 going even further into the equations and notation. This will provide most of the information regarding the static-dynamic fields.
 
-\section{Use-cases of Newtonian Physics}
+\section{Use-cases of Newtonian Physics in Simulations}
 
 [1.] \parencite{neumann_compendium} \par A short compilation of both summaries and excerpts from Neumann's works,
 it provides insight on why modelling using Newtonian Physics is beneficial, and where modelling using 
@@ -80,34 +83,23 @@ Newtonian Physics is invalid.
 [2.] \parencite{beamng_softbody_physics} \par An IGN article which commentates over the revolutionary CryEngine softbody physics
 back in 2014, this includes interviews on how BeamNG simulated realistic crashes and how softbody physics work.
 
-[3.] \parencite{particle_system_manual} \par A detailed guide created early in the early 2000s, this article explores how a particle
-system is made, which is especially useful for simulating fluid dynamics (e.g water waves, smoke physics, etc.).
-
-[4.] \parencite{ragdoll_physics} \par An article which talks about the problems with recreating ragdoll physics
-from the programming perspective. This is useful to showcase an example on what goes on behind the scenes 
-when recreating Newtonian Physics.
-
-[4i.] \parencite{naturalmotion_euphoria} \par A small article which focuses on the \say{Euphoria} engine: 
-dynamic animations which interact accordingly to the environment and subsequent forces acting on it. This is useful to showcase
-another similar yet unique way Newtonian Physics are used in simulations.
-
-[5.] \parencite{fifa_air_resistance} \par Another small article which briefly talks how fluid dynamics were simulated in the video-game franchise
+[3.] \parencite{fifa_air_resistance} \par Another small article which briefly talks how fluid dynamics were simulated in the video-game franchise
 \say{FIFA} in order to create more seamless and realistic ball movement.
 
-[6.] \parencite{fluid_dynamic_workings} \par A scientific article talking about the history of fluid dynamics, as well as the separate applications
+[4.] \parencite{fluid_dynamic_workings} \par A scientific article talking about the history of fluid dynamics, as well as the separate applications
 that came from it (primitive military applications to biofluid mechanics). 
 
-% needs better grammar
-[7.] \parencite{game_physics} \par A tutorial book detailing common physics and code used in games, and how are they made as such.
-This provides a high-level overview on what physics models abstract in order to showcase something specifically. 
+[5.] \parencite{game_physics} \par A tutorial book detailing common physics and code used in games, and how are they made as such.
+This provides a high-level outline on what code abstracts in order to simulate the idea of certain Newtonian concepts. 
 
 \section{The advantages of simulating Newtonian Physics}
 
 [1.] \parencite{physics_learning} \par An article/study on how computer physics simulations have helped
-improve the teaching quality of physics lessons, and the positive correlation between physics simulations and declining failure rates. 
+improve the teaching quality of physics lessons, and the positive correlation between physics simulations and declining failure rates.
 
 [2.] \parencite{robot_kinematics} \par A book which demonstrates how Newtonian physics and modelling how it works can be put into practice,
-with this example being through robot forward/reverse kinematics.
+with this example being through robot forward/reverse kinematics. This shows how Newtonian physics is still a foundational aspect of modern innovations 
+and its importance to the future of an advanced society.
 
 [3.] \parencite{newtonian_synthesis} \par An article which takes a more philosophical view on Newtonian Physics, and how it has changed the world fundamentally.
 This will be useful to cite from both leading up to and during the next section involving \say{\textit{master}} over classical physics due to its critical view on the impact
@@ -116,6 +108,20 @@ of Newtonian Mechanics.
 \newpage
 
 % ----------------------------------------------------------------
+
+% table example here
+% \begin{table}[h!]
+%     \centering
+%     \begin{tabular}{ |c|c|c|c|c|c|c|c|c| }
+%         \hline
+%             \multirow{2}{4em}{ \quad } & \multicolumn{4}{ |c| }{CLASS A: Percentage of correct answers} & \multicolumn{4}{ |c| }{CLASS B: Percentage of correct answers} \\
+%         \cline{2-9}
+%             & X & Y & Z & W & Z & Z & Z & Z \\
+%         \hline
+%             X & Y & Z & W & Z & Z & Z & Z & U \\
+%         \hline
+%     \end{tabular}
+% \end{table}
 
 \printbibliography
 

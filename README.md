@@ -1,4 +1,4 @@
-# Does simulating Newtonian Physics mean we fully understand it?
+# Does the ability to simulate Newtonian Physics indicate we finally understand it?
 
 ![alt text](https://i.pinimg.com/originals/d0/be/84/d0be84397f42d52652c823d0d0031ab8.gif "A demonstration of 'Newton's Cradle'")
 
@@ -12,11 +12,10 @@
 - **What** advantages has simulating Newtonian Mechanics brought society?
 - **Could** we ever reach the point of '*mastering motion*'?
 
-
 ## Information + Usage Instructions
 
 This repository contains these files (\* = could be added/removed in the future):
-1. [Research Report](https://github.com/KyberWho/Y12-Physics-Project/blob/e7a0fcc779379efe791a2ee6d2870eba9afb5f8b/research-report/build/main.pdf): Contains draft information + research on topics discussed (inc. citations)
+1. [Research Report](/research-report/build/main.pdf): Contains draft information + research on topics discussed (inc. citations)
 2. Conference Poster: A scientific poster which contains a summary + important diagrams on each topic 
 3. Scientific Report: A 5 page A4 document detailing the findings found in both the research report and conference poster
 4. Presentation: a short (est. 5 min) PowerPoint presentation which will be presented to the class outlining the findings in the scientific report
