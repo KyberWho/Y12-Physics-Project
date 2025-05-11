@@ -1,4 +1,4 @@
-# Does simulating Newtonian Physics mean we fully understand it?
+# Does the ability to simulate Newtonian Physics indicate we finally understand it?
 
 ![alt text](https://i.pinimg.com/originals/d0/be/84/d0be84397f42d52652c823d0d0031ab8.gif "A demonstration of 'Newton's Cradle'")
 
@@ -11,7 +11,6 @@
 - **How** has Newtonian Mechanics been used in simulations?
 - **What** advantages has simulating Newtonian Mechanics brought society?
 - **Could** we ever reach the point of '*mastering motion*'?
-
 
 ## Information + Usage Instructions
 
